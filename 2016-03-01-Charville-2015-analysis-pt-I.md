@@ -1,12 +1,5 @@
----
-layout: post
-title: "Charville <i>et al</i> (Stem Cell Reports, 2015) RNA-Seq Data Re-analysis"
-author: "Joanna Dreux"
-date: "March 1, 2016"
-output: 
-  html_document: 
-    toc: yes
----
+# Charville <i>et al</i> (Stem Cell Reports, 2015) RNA-Seq Data Re-analysis
+
 I am in the process of re-analysing the data published by Charville *et al* in Stem Cell Reports: [*Ex Vivo* Expansion and *In Vivo* Self-Renewal of Human Muscle Stem Cells (2015)](http://www.ncbi.nlm.nih.gov/pubmed/26344908). 
 
 # Background & Preliminary Steps
