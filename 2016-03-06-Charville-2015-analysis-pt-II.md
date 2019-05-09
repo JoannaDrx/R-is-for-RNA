@@ -1,12 +1,4 @@
----
-layout: post
-title: "Charville (2015) RNA-Seq Data Re-analysis Pt.II"
-author: "Joanna Dreux"
-date: "March 6, 2016"
-output: 
-  html_document: 
-    toc: yes
----
+# Charville (2015) RNA-Seq Data Re-analysis Pt.II
 
 Continued from the analysis in part I. After looking at the undelrying trends in the data, can run some stats accordingly.
 
